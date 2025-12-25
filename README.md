@@ -2,7 +2,7 @@
 
 1.[HerokuAccount](https://heroku.com)
 
-Create a new environment
+2.Create a new environment
 
 ```
 conda create -p venv python==3.9 -y
